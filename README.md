@@ -41,21 +41,21 @@ _Instruções da Biblioteca -> graphics.docx_
 As funções da biblioteca declaradas pelo conio.h variam um pouco do compilador para o compilador.
 Funções dos membros:
 
--kbhit - Determina se uma tecla do teclado foi pressionada.
+-**kbhit** - Determina se uma tecla do teclado foi pressionada.
 
--g cgets - lê uma string diretamente do console.
+-**g cgets** - lê uma string diretamente do console.
 
--cscanf - Lê valores formatados diretamente do console.
+-**cscanf** - Lê valores formatados diretamente do console.
 
--putch - Grava um personagem diretamente no console.
+-**putch** - Grava um personagem diretamente no console.
 
--cputs - Grava uma string diretamente no console.
+-**cputs** - Grava uma string diretamente no console.
 
--cprintf - Formata valores e os grava diretamente no console.
+-**cprintf** - Formata valores e os grava diretamente no console.
 
--Clrscr - Limpa a tela.
+-**Clrscr** - Limpa a tela.
 
--getch - Obter entrada de char do console
+-**getch** - Obter entrada de char do console
 
 
 
