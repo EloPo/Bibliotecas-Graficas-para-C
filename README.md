@@ -61,7 +61,9 @@ Funções dos membros:
 
 Para caracteres especiais
 sintaxe:
+
  setlocale(LC_ALL,"portuguese");
+ 
 _OBS.:_ Essa linha tem que ser colocada depois no _int main(){_
 
 
