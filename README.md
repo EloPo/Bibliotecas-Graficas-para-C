@@ -30,5 +30,10 @@ O sistema de resolução e resolução de colisão da Box2D consiste em três pe
 
 O SFML fornece uma interface simples para os vários componentes do seu PC, para facilitar o desenvolvimento de jogos e aplicativos multimídia. É composto por cinco módulos: sistema, janela, gráficos, áudio e rede.
 
+**graphics.h**
+
+Esta interface fornece acesso a uma biblioteca de gráficos simples que permite desenhar linhas, retângulos, ovais, arcos, polígonos, imagens e cordas em uma janela gráfica.
+_Instruções da Biblioteca -> graphics.docx_
+
 
 
