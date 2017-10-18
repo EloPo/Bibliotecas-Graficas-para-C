@@ -12,7 +12,7 @@ Contém declarações para todas as funções da API do Windows, todos os macros
 
 Possibilita você a fazer coisas como:
 
->Criar janelas e botões.
->Enumerar arquivos de um diretório.
->Consultar informações sobre o sistema(eg processos, serviços, janelas).
->Coisas do gênero.
+>Criar janelas e botões;<
+>Enumerar arquivos de um diretório;
+>Consultar informações sobre o sistema(eg processos, serviços, janelas);
+>Coisas do gênero;
