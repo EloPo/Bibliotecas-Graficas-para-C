@@ -59,7 +59,7 @@ Funções dos membros:
 
 **Biblioteca locale.h**
 
-Para caracteres especiais
+Para caracteres especiais.
 sintaxe:
 
  setlocale(LC_ALL,"portuguese");
