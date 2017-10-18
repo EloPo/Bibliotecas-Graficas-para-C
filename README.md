@@ -57,5 +57,12 @@ Funções dos membros:
 
 -**getch** - Obter entrada de char do console
 
+**Biblioteca locale.h**
+
+Para caracteres especiais
+sintaxe:
+ setlocale(LC_ALL,"portuguese");
+_OBS.:_ Essa linha tem que ser colocada depois no _int main(){_
+
 
 
