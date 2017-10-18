@@ -60,11 +60,11 @@ Funções dos membros:
 **Biblioteca locale.h**
 
 Para caracteres especiais.
-sintaxe:
+Sintaxe:
 
  setlocale(LC_ALL,"portuguese");
  
-_OBS.:_ Essa linha tem que ser colocada depois no _int main(){_
+_OBS.:_ Essa linha tem que ser colocada depois do _int main(){_
 
 
 
