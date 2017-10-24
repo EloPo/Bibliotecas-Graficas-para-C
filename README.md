@@ -66,5 +66,10 @@ Sintaxe:
  
 _OBS.:_ Essa linha tem que ser colocada depois do _int main(){_
 
+**SDL**
+Simple DirectMedia Layer é uma biblioteca de desenvolvimento multiplataforma projetada para fornecer acesso de baixo nível ao áudio, teclado, mouse, joystick e hardware gráfico via OpenGL e Direct3D. É usado por software de reprodução de vídeo, emuladores e jogos populares, incluindo o catálogo premiado da Valve e muitos jogos do Humble Bundle .
+
+SDL está escrito em C, funciona nativamente com C ++, e existem ligações disponíveis para vários outros idiomas, incluindo C # e Python.
+SDL 2.0 é distribuído sob a licença zlib . Esta licença permite que você use SDL livremente em qualquer software.
 
 
