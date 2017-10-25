@@ -3,7 +3,8 @@ Todas as Bibliotecas Gráficas para criação de jogos em  Linguagem C
 
 Algumas bibliotecas estão em extensão em .zip . 
 Todas com os direitos autorais de cada criador.
-**Detalhe muito importante: Se a IDE que você está utilizando é Dev C++ 5.2, algumas bibliotecas não irão funcionar, o indicado é utilizar uma versão anterior do _Dev C++_ ou o _Visual Studio_
+
+**Detalhe muito importante: Se a IDE que você está utilizando é Dev C++ 5.2, algumas bibliotecas não irão funcionar, o indicado é utilizar uma versão anterior do _Dev C++_ ou o _Visual Studio_**
 
 
 
