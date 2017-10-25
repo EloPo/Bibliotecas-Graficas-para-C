@@ -6,6 +6,10 @@ Todas com os direitos autorais de cada criador.
 
 **Detalhe muito importante: Se a IDE que você está utilizando é Dev C++ 5.2, algumas bibliotecas não irão funcionar, o indicado é utilizar uma versão anterior do _Dev C++_ ou o _Visual Studio_**
 
+**Biblioteca allegro.h**
+
+http://www.rafaeltoledo.net/tutoriais-allegro-5/
+
 
 
 **Biblioteca windows.h**
